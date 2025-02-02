@@ -20,3 +20,5 @@ If you don't have three numbers yet, append zeros until you do. Keep the first t
 Using this scheme, Jackson and Jaxen both map to J250.
 
 Implement Soundex.
+
+https://en.wikipedia.org/wiki/Soundex
